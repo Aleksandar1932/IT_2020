@@ -1,0 +1,6 @@
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\bin\Debug\TouristAgency.exe.config
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\bin\Debug\TouristAgency.exe
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\bin\Debug\TouristAgency.pdb
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\obj\Debug\TouristAgency.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\obj\Debug\TouristAgency.exe
+C:\Users\aleks\source\repos\TouristAgency\TouristAgency\obj\Debug\TouristAgency.pdb
